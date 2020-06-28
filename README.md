@@ -5,7 +5,7 @@ Week 1
 - postgreSQl intro 
 - Env Setup 
 - Database objects
--- Schema
++ Schema
 -- Table
 -- Field
 -- Keys
